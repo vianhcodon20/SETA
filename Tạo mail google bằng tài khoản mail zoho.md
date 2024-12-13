@@ -2,10 +2,10 @@ Hướng dẫn tạo google meet, google drive, google calendar cho tài khoản
 ---------
 
 ## Step 1: Select 
-- Chọn ngôn ngữ trang web
+- Chọn ngôn ngữ trang web </br>
 ![image](https://github.com/user-attachments/assets/fc52a967-c70f-44dd-a42e-f56821110a8f)
 
-<a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp3kduQk6D66dPe7oVmudgaNiaxshBn0tiUTLS4eEJySqnzFbSjDrBZ-WJspcFyGTXLHtq5bCA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S34539454%3A1706514962559039&theme=glif">“Create account”</a> >. “For my personal use”
+<a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp3kduQk6D66dPe7oVmudgaNiaxshBn0tiUTLS4eEJySqnzFbSjDrBZ-WJspcFyGTXLHtq5bCA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S34539454%3A1706514962559039&theme=glif">“Create account”</a> >. “For my personal use”  </br>
 ![image](https://github.com/user-attachments/assets/f3bdccf2-e08d-47e9-a3ab-f7923134aa85)
 
 ## Step 2: Input personal info 
